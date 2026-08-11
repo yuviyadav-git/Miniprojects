@@ -1,0 +1,6 @@
+Hey, this is a sample txt file for my file reader.
+I honestly have no idea what i should write.
+Let's write about this project.
+This project is supposed to be able to take txt and pdf files as input, and return the total word count and file type of each file.
+This seems pretty simple all i need is a txt file and a pdf file. This is why i am writing all this in this file, now this file is pretty much ready for testing, but i need to take care of a pdf file as well. I think for a pdf file i will just extract one of my notes from Obsidian as pdf.
+Maybe i should have done the same for a txt file as well, but it kind of feels good writing all this.
